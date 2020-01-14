@@ -1,0 +1,16 @@
+{
+  "name": "MrDaniel's-Portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://mrdannie.github.io/MrDaniel-website",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
